@@ -1,8 +1,8 @@
+# LetNet5 (1998)
+
 - **Framework:** PyTorch
 - **Dataset:** MNIST
 - **Paper:** http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
-
-# LetNet5 (1998)
 
 ![LeNet5 architecture](src/lenet5.png)
 
