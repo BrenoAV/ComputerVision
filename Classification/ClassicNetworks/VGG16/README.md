@@ -11,11 +11,11 @@
   - All pooling layers have a 2x2 pool size and a strides value of 2
 - The key idea of using small convs is that the receptive field larger (7x7, for example) is more expansive than multiple stacked layers of small filters (3x3), which reduce the number of parameters. For a filter of 7x7 we got:
 
-$$ \#parameters_{(7\times7)} = 7 \times 7 \times C \times K + C$$
+$$ parameters_{(7\times7)} = 7 \times 7 \times C \times K + C$$
 
 for a filter of 3x3 we have:
 
-$$ \#parameters_{(3\times3)} = 3 \times C \times K + 2 \times 3 \times 3 \times C^2 + 3 \times C$$
+$$ parameters_{(3\times3)} = 3 \times C \times K + 2 \times 3 \times 3 \times C^2 + 3 \times C$$
 
 - For the example above we are considering the input filter of $K$. If $K \geq C$ we have less parameters for the full-stacked convolution. On example below the input filters is $K = C$
 
