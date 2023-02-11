@@ -117,4 +117,4 @@ ________________________________________________________________________________
   - **Part II:** Inceptions blocks separated by `3x3 max pooling`
   - **Part III:** The Classifier (FC &rarr; Softmax)
 
-- In the architecture have three different outputs using softmax only for training to avoid the gradient vanish (because the deeply) and increase the training speed. The final model uses only the last one to make the predictions.
+- In the architecture have three different outputs using softmax only for training to avoid the gradient vanish (because the deepth) and increase the training speed. The final model uses only the last one to make the predictions.
