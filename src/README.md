@@ -1,0 +1,1 @@
+Source of the image [vision.jpg](vision.jpg) - https://www.pexels.com/photo/person-s-eye-grayscale-portrait-photography-551600/

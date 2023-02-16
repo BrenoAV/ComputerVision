@@ -2,7 +2,9 @@
 
 This repository aims to be a local to store my studies in Computer Vision. I'll try to explain the concepts in my vision and apply them to code. My objective is to understand and document the main components of the applications in different fields: classification, object detection, object segmentation, and generative adversarial networks.
 
-![Vision Person Example](src/output.jpg)
+<p align="center">
+<img src="src/vision.jpg">
+</p>
 
 ## Classification
 
