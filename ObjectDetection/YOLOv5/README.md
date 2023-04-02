@@ -1,6 +1,6 @@
 # YOLO-v5
 
-This is a demo for testing the [YOLO-v5](https://github.com/ultralytics/yolov5) implementation in PyTorch from Ultralytics. I used the [Train Custom Data](https://docs.ultralytics.com/yolov5/train_custom_data) and the video [Yolo v5 on Custom Dataset | Train and Test Yolov5 on Custom Dataset - Code With Aarohi](https://www.youtube.com/watch?v=80Q3HIBy7Qg)
+This is a demo for testing the [YOLO-v5](https://github.com/ultralytics/yolov5) implementation in PyTorch from Ultralytics. I used the [Train Custom Data](https://docs.ultralytics.com/yolov5/train_custom_data) and the video [Yolo v5 on Custom Dataset | Train and Test Yolov5 on Custom Dataset - Code With Aarohi](https://www.youtube.com/watch?v=80Q3HIBy7Qg) as guidance.
 
 ![Detection result](./src/00367.jpg)
 
