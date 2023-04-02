@@ -19,6 +19,7 @@ This repository aims to be a local to store my studies in Computer Vision. I'll 
 ## Object Detection
 
   - [Object Detection API (TF)](ObjectDetection/Object-Detection-API-TF/)
+  - [YOLOv5 (pytorch)](ObjectDetection/YOLOv5/)
 
 ### Architectures
 
