@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cups-detection</folder>
+	<filename>14-img20.png</filename>
+	<path>/mnt/files/Datasets/images/cups-detection/14-img20.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>143</ymin>
+			<xmax>321</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>
