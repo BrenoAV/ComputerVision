@@ -21,3 +21,7 @@ This repository aims to be a local to store my studies in Computer Vision. I wil
 - [Object Detection API (TF)](ObjectDetection/Object-Detection-API-TF/)
 - [YOLOv5 (PyTorch)](ObjectDetection/YOLOv5/)
 - [YOLOv8 (Ultralytics)](ObjectDetection/YOLOv8/)
+
+## Face Recognition
+
+- [Cascade-LBPH](FaceDetection/Cascade-LBPH/) :new:
